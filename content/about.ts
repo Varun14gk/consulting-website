@@ -40,6 +40,7 @@ export const founders: Founder[] = [
       "With a strong business network and Six Sigma certification, he leads client relationships and delivery planning, making sure every project is grounded in how the business really runs.",
     ],
     highlights: ["Process transformation", "AML/KYC and compliance", "Fraud investigation", "Quality and Six Sigma", "Team leadership"],
+    photo: "/team/dinesh.svg", // dummy portrait: replace with a real photo
     linkedin: "#", // PLACEHOLDER
   },
   {
@@ -51,6 +52,7 @@ export const founders: Founder[] = [
       "He works in Python and FastAPI on Azure with CI/CD, and is a graduate of NITK Surathkal. He leads architecture and engineering.",
     ],
     highlights: ["Multi-agent systems", "RAG and knowledge graphs", "Computer vision and NLP", "Python, FastAPI, Azure", "CI/CD"],
+    photo: "/team/varun.svg", // dummy portrait: replace with a real photo
     linkedin: "#", // PLACEHOLDER
   },
 ];
